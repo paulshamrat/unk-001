@@ -1,14 +1,18 @@
-# unk-001
-unknown function
+# MD SIMULATION: PROTEIN IN WATER
+Simulation protocol: Lysozyme in Water by J. Lemkul and Making it Rain by P. Arantes
 
-# RMSD
+## RMSD
+![RMSD Plot](https://raw.githubusercontent.com/paulshamrat/unk-001/main/rmsd.png)
 
+## RMSF
+![RMSF-CA Plot](https://raw.githubusercontent.com/paulshamrat/unk-001/main/rmsf-ca.png)
 
+## RG
+![RG Plot](https://raw.githubusercontent.com/paulshamrat/unk-001/main/rg.png)
 
-# RMSF
+## SNAPSHOTS
+![Snapshot](https://raw.githubusercontent.com/paulshamrat/unk-001/main/snapshots.png)
 
-# RG
-
-# SNAPSHOTS
-
+## TRAJECTORY
+![Untitled Video](https://raw.githubusercontent.com/paulshamrat/unk-001/main/untitled.mp4)
 
