@@ -22,6 +22,6 @@ RG (Radius of Gyration) plot offers information about the protein's compactness 
 The STRUCTURAL SNAPSHOTS includes visual representations of the protein's conformation at different time points during the simulation. These snapshots typically depict the protein structure, water molecules, and other relevant components. They are valuable for observing changes in secondary structure, interactions, and solvent exposure, providing a visual understanding of the protein's behavior throughout the simulation.
 
 ## CONFORMATIONAL SNAPSHOTS FOR 5000 PS(5NS)
-![Conformational snapshots]](https://raw.githubusercontent.com/paulshamrat/unk-001/main/untitled001.gif)
+![Molecular Dynamics Animation](https://raw.githubusercontent.com/paulshamrat/unk-001/main/untitled001.gif)
 
 The CONFORMATIONAL SNAPSHOTS showcases an animated GIF or video representing the protein's motion and dynamics over the simulation time. The trajectory allows researchers to visualize the protein's structural changes, movements, and interactions with water molecules dynamically. It provides valuable insights into the protein's folding, unfolding, and overall behavior throughout the MD simulation.
