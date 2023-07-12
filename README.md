@@ -28,7 +28,7 @@ The CONFORMATIONAL SNAPSHOTS showcases an animated GIF or video representing the
 
 ## Essential Dynamics
 
-## File: RMSD Average linkage hierarchical clustering: Average linkage hierarchical clustering of Root Mean Square Deviation (RMSD)
+## RMSD Average linkage hierarchical clustering: Average linkage hierarchical clustering of Root Mean Square Deviation (RMSD)
 
 ![RMSD Average linkage hierarchical clustering.png](https://raw.githubusercontent.com/paulshamrat/unk-001/main/RMSD%20Average%20linkage%20hierarchical%20clustering.png)
 
